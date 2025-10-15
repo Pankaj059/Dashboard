@@ -162,12 +162,12 @@
 }
 
 .dashboard-wrapper {
-  background-color: #f8f9fa; /* Light, clean background */
+  background-color: #f8f9fa; 
   border-radius: 12px;
   padding: 2rem;
   margin: 2rem auto;
   max-width: 1200px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Soft depth */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
 }
 
 .dashboard-wrapper:hover {
